@@ -10,10 +10,10 @@ I am a **Computer Engineering student** at Cairo University with a passion for b
 
 ### 🚀 Featured Projects
 
-*   **[CUBIX](https://github.com/bradocola/CUBIX)**: A physical smart cube productivity system using ESP32 & C++. Achieved real-time state detection with 100ms latency.
-*   **[E7gezly Event](https://github.com/bradocola/E7gezly-Event)**: A full-stack event booking platform built with Python, JavaScript, and SQL.
-*   **[5-Stage Pipelined Processor](https://github.com/bradocola/VHDL-Processor)**: Custom processor implementation in VHDL featuring data forwarding and static branch prediction.
-*   **[Automated Car (CUERT)](https://github.com/bradocola/CUERT-Car)**: Competed in the CUERT contest, achieving 4th place out of 48 teams by simulating traffic lane detection using C.
+*   **[CUBIX](https://github.com/cubix-pack)**: A physical smart cube productivity system using ESP32 & C++. Achieved real-time state detection with 100ms latency.
+*   **[E7gezly Event](https://github.com/Astronaut1984/E7gezly-Event)**: A full-stack event booking platform built with Python, JavaScript, and SQL.
+*   **[5-Stage Pipelined Processor](https://github.com/M0hamed-Omar/Arch_Project)**: Custom processor implementation in VHDL featuring data forwarding and static branch prediction.
+*   **[Automated Car (CUERT)](https://github.com/FarahhYehya/AUTONMOUS-LOGIC-LANE-CAR-USING-STM32)**: Competed in the CUERT contest, achieving 4th place out of 48 teams by simulating traffic lane detection using C.
 
 ### 🎓 Education
 *   **Computer Engineering (3rd Year)** | Cairo University
